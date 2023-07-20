@@ -1,0 +1,23 @@
+
+.container{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin-top: 50vh;
+}
+
+span{
+    font-size: 74px;
+    font-weight: bolder ;
+}
+
+button{
+    padding: 10px 15px;
+    margin-bottom: 10px;
+    font-size: 16px;
+    margin-top: 10px;
+    background-color: blueviolet;
+    color: white;
+    border: none;
+}
